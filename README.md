@@ -1,4 +1,4 @@
-# 🚀 Produtividade é transformar horas de trabalho manual em segundos de automação
+# 🚀 Automação para consolidação de arquivos Excel e análise de dados
 
 Trabalhar com grandes volumes de dados espalhados por diversas pastas e abas de Excel é um desafio comum, mas fazer isso manualmente é um desperdício de tempo e talento.
 
