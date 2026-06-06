@@ -8,13 +8,13 @@ Trabalhar com grandes volumes de dados espalhados por diversas pastas e abas de 
 
 ### 🛠2. Ferramentas Utilizadas:
 
-**Jupyter Notebook:** Como ambiente de desenvolvimento
+- **Jupyter Notebook:** Como ambiente de desenvolvimento
 
-**Linguagem:** Python para desenvolvimento de todo o projeto
+- **Linguagem:** Python para desenvolvimento de todo o projeto
 
-**Bibliotecas:** pandas, pathlib, os e glob, Shutil e Datetime
+- **Bibliotecas:** pandas, pathlib, os e glob, Shutil e Datetime
 
-**Dados:** Excel 
+- **Dados:** Excel 
 
 ---
 
