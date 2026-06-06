@@ -22,7 +22,7 @@ O impacto? Além de eliminar erros humanos no "copia e cola", o ganho de tempo p
 ---
 
 ### 🛠 Stack Técnica:
-Linguagem: Python
-**Bibliotecas:** Pandas (análise de dados), Pathlib, OS e Glob (gestão de arquivos), Shutil e Datetime
 
-**Banco de Dados:** SQL Server
+**Linguagem:** Python / **Bibliotecas:** Pandas (análise de dados), Pathlib, OS e Glob (gestão de arquivos), Shutil e Datetime
+
+**Dados:** Excel
