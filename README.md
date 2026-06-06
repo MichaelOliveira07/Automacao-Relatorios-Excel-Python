@@ -4,7 +4,7 @@
 
 Trabalhar com grandes volumes de dados espalhados por diversas pastas e abas de Excel é um desafio comum, mas fazer isso manualmente é um desperdício de tempo e talento.
 
-#
+---
 
 ### 🛠2. Ferramentas Utilizadas:
 
